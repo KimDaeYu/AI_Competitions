@@ -1,6 +1,7 @@
 /.bash_history
 /.cache
 /.config
+/.gitconfig
 /.ipython
 /.local
 /.nv
@@ -9,3 +10,5 @@
 /.wget-hsts
 /seaborn-data
 /workspace
+/input/data/train/images
+/input/data/eval/images
